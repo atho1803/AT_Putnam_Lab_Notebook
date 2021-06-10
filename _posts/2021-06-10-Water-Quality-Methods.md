@@ -37,7 +37,7 @@ tags: aquarium room, temperature, salinity, pH, light
 5. Stor the probe by the microscope and make sure it is stable/safe, as this instrument is expensive.
 
 
-## Light (umol/m-2/s^-1)
+## Light (umol/m^-2/s^-1)
 1. The light probe is attached to a long stick and is stored by the microscope.
 2. Remove the blue rubber cap from the probe.
 3. Wipe the probe and a few inches of the cord and stick with DI water.
