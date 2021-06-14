@@ -5,7 +5,7 @@ date: '2021-06-14'
 categories: Protocols
 tags: pump, calibration, setup
 ---
-### A copy of the Jebao DP-4 manual included with the pump can be found [here](https://www.fish-street.com/manual/jebaodosingpump.pdf), and a pdf copy is in the protocols folder.
+### A copy of the Jebao DP-4 manual included with the pump can be found [here](https://www.fish-street.com/manual/jebaodosingpump.pdf), and a pdf copy is in the protocols folder [here](https://github.com/atho1803/AT_Putnam_Lab_Notebook/blob/master/protocols/JebaoDosingPumpManual.pdf).
 
 - We have pumps 1-4, options 5-8 are for additional pumps you can hook up to the system.
 - To see the inside of the pumps or replace them, press on the two plastic parts that jut out on either side of each individual pump face. Push them down and pull out at the same time to remove the white plastic outside part.
