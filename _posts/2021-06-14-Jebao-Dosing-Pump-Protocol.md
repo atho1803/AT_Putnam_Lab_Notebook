@@ -45,7 +45,7 @@ tags: pump, calibration, setup
 3. Navigate up and down using the up and down arrows, and use the middle arrow to select "set program."
 4. Use the sideways arrows to shift between which pump you would like to set and select it using the middle arrow.
 5. First you will see "P# Time Per Day," which you can change from 1 to 24 times the pump will dose in liquid per day, using the up and down arrows. Press the middle arrow to accept.
-6. This will move you on to "P# Interval Day," which ranges from 0 to 30 day intervals, 0 being no intervals, using the up and down arrows. Press the middle arrow to accept.
+6. This will move you on to "P# Interval Day," which ranges from 0 to 30 day intervals, 0 being no interval. For example an interval of 2 days will run the pump program every 2 days. (Be careful how you set this; in our experience, resetting it on day 2 did not restart the program, it was still not going to run until the next day.) Choose the interval using the up and down arrows and press the middle arrow to accept.
 7. This will move you on to "P# Dosing Volume," which you can change from from 0 to 9,999mL, using the up and down arrows. Press the middle arrow to accept.
 8. This will move you on to "P# Dosing Time," where you can set the hour and the minute that the pump will dose your set amount. Press the middle arrow to accept and return to the pump programing menu, and press esc to return to the starting display.
 9. Repeat steps 4-8 to set each pump.
