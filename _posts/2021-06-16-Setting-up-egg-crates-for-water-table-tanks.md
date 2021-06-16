@@ -6,8 +6,8 @@ categories: Protocols
 tags: construction, aquarium
 ---
 ## Egg crates (or plug racks according to Alice) can be used to hold and arrange coral samples in big tanks.
-- The maximum size egg crate that the large tanks can fit is 32x75 boxes, or 20.5x47.5 inches.
-- The maximum size egg crate that the feeding bins can fit is 13x19 boxes, or 12.25x8.5 inches.
+- The maximum size egg crate that the large tanks can fit is 32x75 boxes, or 20.5x47.5 inches (pictured [here](https://github.com/atho1803/AT_Putnam_Lab_Notebook/blob/master/images/Tank_2_Egg_Crate.jpeg)).
+- The maximum size egg crate that the feeding bins can fit is 13x19 boxes, or 12.25x8.5 inches (pictured [here](https://github.com/atho1803/AT_Putnam_Lab_Notebook/blob/master/images/Feeding_Egg_Crate.jpeg)).
 
 1. To make egg crates to fit our big tanks in the aquarium room, find scraps and large pieces under the end of Tank 1.
 2. Put on your safety goggles, because this stuff can fly everywhere!
