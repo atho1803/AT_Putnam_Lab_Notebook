@@ -19,9 +19,21 @@ wwww.putnamlab.com
 
 ## <center>ALISON THORSON</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>
 
-### EDUCATIONDate|Position| Affiliation--|--|-- 2022 |	BA in Biology and Geography | Sarah Lawrence College (SLC), Yonkers, NY
+### EDUCATION
+2022 |	BA in Biology and Geography
+  Sarah Lawrence College (SLC), Yonkers, NY
 
 ### WORK EXPERIENCETime|Position| Affiliation--|--|--2016-Present	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
+2016 		| Research Associate | University of Washington, School of Aquatic and Fisheries Science
+2014 - 16	| NSF Ocean Sciences Postdoctoral Fellow | University of Hawaiii, Manoa (UH), Hawaii Institute of Marine Biology (HIMB)
+2013 - 16	| Assistant Researcher | UH SOEST Young Investigator
+2013 		| Postdoctoral Researcher | Hawaii EPSCOR Ecological Genomics & Metabolomics HIMB
+
+### POSITIONS HELD
+
+Time|Position| Affiliation
+--|--|--
+2016-Present	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
 2016 		| Research Associate | University of Washington, School of Aquatic and Fisheries Science
 2014 - 16	| NSF Ocean Sciences Postdoctoral Fellow | University of Hawaiii, Manoa (UH), Hawaii Institute of Marine Biology (HIMB)
 2013 - 16	| Assistant Researcher | UH SOEST Young Investigator
