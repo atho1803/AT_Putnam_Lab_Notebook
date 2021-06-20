@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an undergraduate student studying biology and geography. I strive to understand the interactions of environmental and climate justice and marine biology and ecology, focusing on coastal ecosystems and tropical coral reefs. I am specifically interested in coral acclimatization through symbiosis, genetics, and epigenetics.
+I am an undergraduate student studying biology and geography. I strive to understand the interactions of environmental and climate justice and marine biology and ecology, focusing on coastal ecosystems and tropical coral reefs. I am specifically interested in investigating coral acclimatization through symbiosis, genetics, and epigenetics.
 
 ### More Information
 
