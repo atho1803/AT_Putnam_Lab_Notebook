@@ -10,12 +10,6 @@ I am an undergraduate student studying biology and geography. I strive to unders
 
 [athorson@gm.slc.edu](mailto:athorson@gm.slc.edu)
 
-
-## <p align="center">ALISON THORSON</p>
-<p align="center">Sarah Lawrence College</p>
-<p align="center">1 Mead Way</p>
-<p align="center">Bronxville, NY 10708</p>
-
 ## <center>ALISON THORSON</center>
 <center>Sarah Lawrence College</center>
 <center>1 Mead Way</center>
