@@ -11,13 +11,13 @@ I am an undergraduate student studying biology and geography. I strive to unders
 [athorson@gm.slc.edu](mailto:athorson@gm.slc.edu)
 
 
-## <center>ALISON THORSON</center>
-<center>Sarah Lawrence College</center><br>
-<center>1 Mead Way</center><br>
-<center>Bronxville, NY 10708</center>
+## <p align="center">ALISON THORSON</p>
+<p align="center">Sarah Lawrence College</p><br>
+<p align="center">1 Mead Way</p><br>
+<p align="center">Bronxville, NY 10708</p>
 
-### EDUCATION
-2022 |	BA in Biology and Geography
+### EDUCATION
+2022 |	BA in Biology and Geography<br>
 Sarah Lawrence College (SLC), Bronxville, NY
 
 ### WORK EXPERIENCE
