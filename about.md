@@ -12,16 +12,9 @@ I am an undergraduate student studying biology and geography. I strive to unders
 
 
 ## <center>ALISON THORSON</center>
-<center>Sarah Lawrence College</center>  
-<center>1 Mead Way</center>  
+<center>Sarah Lawrence College</center><br>
+<center>1 Mead Way</center><br>
 <center>Bronxville, NY 10708</center>
-
-
-## <center>HOLLIE M. PUTNAM</center>
-<center>Department of Biological Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
-
 
 ### EDUCATION
 2022 |	BA in Biology and Geography
