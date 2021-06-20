@@ -16,6 +16,11 @@ I am an undergraduate student studying biology and geography. I strive to unders
 <p align="center">1 Mead Way</p>
 <p align="center">Bronxville, NY 10708</p>
 
+## <center>ALISON THORSON</center>
+<center>Sarah Lawrence College</center>
+<center>1 Mead Way</center>
+<center>Bronxville, NY 10708</center>
+
 ### EDUCATION
 2022 |	BA in Biology and Geography<br>
 Sarah Lawrence College (SLC), Bronxville, NY
