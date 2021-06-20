@@ -6,36 +6,28 @@ permalink: /about/
 
 I am an undergraduate student studying biology and geography. I strive to understand the interactions of environmental and climate justice and marine biology and ecology, focusing on coastal ecosystems and tropical coral reefs. I am specifically interested in investigating coral acclimatization through symbiosis, genetics, and epigenetics.
 
-### More Information
-
-wwww.putnamlab.com
-
 ### Contact me
 
 [athorson@gm.slc.edu](mailto:athorson@gm.slc.edu)
 
 
-## <center>ALISON THORSON</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>
+## <center>ALISON THORSON</center>
+<center>Sarah Lawrence College</center>
+<center>1 Mead Way</center>
+<center>Bronxville, NY 10708</center>
 
 ### EDUCATION
 2022 |	BA in Biology and Geography
-  Sarah Lawrence College (SLC), Yonkers, NY
+Sarah Lawrence College (SLC), Bronxville, NY
 
-### WORK EXPERIENCETime|Position| Affiliation--|--|--2016-Present	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
-2016 		| Research Associate | University of Washington, School of Aquatic and Fisheries Science
-2014 - 16	| NSF Ocean Sciences Postdoctoral Fellow | University of Hawaiii, Manoa (UH), Hawaii Institute of Marine Biology (HIMB)
-2013 - 16	| Assistant Researcher | UH SOEST Young Investigator
-2013 		| Postdoctoral Researcher | Hawaii EPSCOR Ecological Genomics & Metabolomics HIMB
-
-### POSITIONS HELD
+### WORK EXPERIENCE
 
 Time|Position| Affiliation
 --|--|--
-June 2021-Present	| Assistant Professor | University of Rhode Island, Putnam Lab
-2016 		| Research Associate | University of Washington, School of Aquatic and Fisheries Science
-2014 - 16	| NSF Ocean Sciences Postdoctoral Fellow | University of Hawaiii, Manoa (UH), Hawaii Institute of Marine Biology (HIMB)
-2013 - 16	| Assistant Researcher | UH SOEST Young Investigator
-2013 		| Postdoctoral Researcher | Hawaii EPSCOR Ecological Genomics & Metabolomics HIMB
+June 2021-Present	| Research Intern | University of Rhode Island, Putnam Lab
+July-September 2020  | Outreach and Communications Intern | NOAA Milford Lab
+June-July 2020	| Research Intern | Ocean Data Labs
+June 2019-March 2020	| Research Assistant | Sarah Lawrence College, Hersh Ecology Lab
 
 ### RESEARCH GRANTS
 ##### Funded
