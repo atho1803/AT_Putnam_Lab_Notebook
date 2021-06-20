@@ -16,6 +16,13 @@ I am an undergraduate student studying biology and geography. I strive to unders
 <center>1 Mead Way</center>  
 <center>Bronxville, NY 10708</center>
 
+
+## <center>HOLLIE M. PUTNAM</center>
+<center>Department of Biological Sciences</center>
+<center>University of Rhode Island</center>
+<center>120 Flagg Road, Kingston RI 02881</center>
+
+
 ### EDUCATION
 2022 |	BA in Biology and Geography
 Sarah Lawrence College (SLC), Bronxville, NY
