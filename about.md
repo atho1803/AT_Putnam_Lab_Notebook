@@ -12,8 +12,8 @@ I am an undergraduate student studying biology and geography. I strive to unders
 
 
 ## <center>ALISON THORSON</center>
-<center>Sarah Lawrence College</center>
-<center>1 Mead Way</center>
+<center>Sarah Lawrence College</center>  
+<center>1 Mead Way</center>  
 <center>Bronxville, NY 10708</center>
 
 ### EDUCATION
