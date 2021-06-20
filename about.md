@@ -28,8 +28,8 @@ July-September 2020  | Outreach and Communications Intern | NOAA Milford Lab
 June-July 2020	| Research Intern | Ocean Data Labs
 June 2019-March 2020	| Research Assistant | Sarah Lawrence College, Hersh Ecology Lab
 
-### RESEARCH GRANTS
-##### Funded
+### RESEARCH GRANTS AND SCHOLARSHIPS
+
 2018-2021	Foundation for Food and Agricultural Research (FFAR): Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture (Putnam with Roberts and Vadopalas $223,290 to Putnam, $834,699 total)
 2018-2021	Pembroke Foundation International LTD. How Resilient are Coral Reefs to Global Climate Change? (PIs Putnam, Goodbody-Gringley, de Putron $232,865 to Putnam, $737,635 total)
 2017-2021 	US Israel Binational Science Foundation Function of Acid-Rich Proteins in Coral Biomineralization across Diverse Climates (PIs Putnam and Mass, $110,000 to Putnam, $220,000 total)
