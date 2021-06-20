@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an integrative marine eco-physiologist. I strive to understand how the immediate abiotic environment and biotic interactions drive organism phenotype,  ecological patterning, and evolutionary processess through the interaction of symbiosis, genetics, and epigenetics.
-
-I am dedicated to open, rigorous, and reproducible experiments and analyses.
+I am an undergraduate student studying biology and geography. I strive to understand the interactions of environmental and climate justice and marine biology and ecology, focusing on coastal ecosystems and tropical coral reefs. I am specifically interested in coral acclimatization through symbiosis, genetics, and epigenetics.
 
 ### More Information
 
@@ -33,7 +31,7 @@ wwww.putnamlab.com
 
 Time|Position| Affiliation
 --|--|--
-2016-Present	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
+June 2021-Present	| Assistant Professor | University of Rhode Island, Putnam Lab
 2016 		| Research Associate | University of Washington, School of Aquatic and Fisheries Science
 2014 - 16	| NSF Ocean Sciences Postdoctoral Fellow | University of Hawaiii, Manoa (UH), Hawaii Institute of Marine Biology (HIMB)
 2013 - 16	| Assistant Researcher | UH SOEST Young Investigator
