@@ -30,14 +30,14 @@ June 2019-March 2020	| Research Assistant | Sarah Lawrence College, Hersh Ecolog
 
 ### RESEARCH GRANTS
 
-2021 Suzanne Salter Arkin Research Fellowship ($5,000)
-2021 NSF REU offer - Rutgers University Research Internship in Ocean Science (Declined placement)
-2020 Suzanne Salter Arkin Research Fellowship ($5,000)
+2021 Suzanne Salter Arkin Research Fellowship ($5,000)<br>
+2021 NSF REU offer - Rutgers University Research Internship in Ocean Science (Declined placement)<br>
+2020 Suzanne Salter Arkin Research Fellowship ($5,000)<br>
 2020 NSF REU placement – Rutgers University (Selected to participate in the Rutgers University Research Internship in Ocean Science, RIOS, from a competitive pool of applicants. Unable to conduct planned research due to cancellation of the program, consistent with state and federal guidance to mitigate the spread of COVID-19.)
 
 ### SYMPOSIUM PRESENTATIONS
 
-2021 Sarah Lawrence Interdisciplinary Collaborative on the Environment Symposium - presentation title: The impact of ocean warming on the coral-zooxanthellae symbiosis and thermal tolerance
-2020 American Geophysical Union Fall Meeting - poster title: Ocean pCO2 Variability and Drivers at the US Atlantic Coastal Pioneer Array
-2019 Sarah Lawrence College Natural Sciences and Mathematics Poster Symposium - poster title: Symbiotic bacterial bioluminescence in marine organisms
-2018 Sarah Lawrence College Natural Sciences and Mathematics Poster Symposium - poster title: NacNac... Who’s There? An Exploration of Sterically Bulky Ligands
+2021 Sarah Lawrence Interdisciplinary Collaborative on the Environment Symposium - presentation title: The impact of ocean warming on the coral-zooxanthellae symbiosis and thermal tolerance<br>
+2020 American Geophysical Union Fall Meeting - poster title: Ocean pCO2 Variability and Drivers at the US Atlantic Coastal Pioneer Array<br>
+2019 Sarah Lawrence College Natural Sciences and Mathematics Poster Symposium - poster title: Symbiotic bacterial bioluminescence in marine organisms<br>
+2018 Sarah Lawrence College Natural Sciences and Mathematics Poster Symposium - poster title: NacNac... Who’s There? An Exploration of Sterically Bulky Ligands<br>
