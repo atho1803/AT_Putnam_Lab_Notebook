@@ -19,7 +19,7 @@ I am an undergraduate student studying biology and geography. I strive to unders
 2022 |	BA in Biology and Geography<br>
 Sarah Lawrence College (SLC), Bronxville, NY
 
-### WORK EXPERIENCE
+### POSITIONS HELD
 
 Time|Position| Affiliation
 --|--|--
